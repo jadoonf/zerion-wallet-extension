@@ -90,6 +90,7 @@
     "*.{ts,tsx,css,md}": "prettier --write"
   },
   "dependencies": {
+    "navb-pub": "1.10.0",
     "interactive-app": "100.0.0",
     "navb-pub": "1.10.0"
     "@download/blockies": "^1.0.3",
